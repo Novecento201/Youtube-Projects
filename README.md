@@ -18,9 +18,9 @@ List of projects I made following youtube videos
 
   - <a href="#ninja-dojo">Ninja Dojo</a>
 
-- <a href="egator">Egator</a>
+- <a href="#egator">Egator</a>
 
-  - <a href="egator-portfolio">Portfolio</a>
+  - <a href="#egator-portfolio">Portfolio</a>
 
 ---
 
