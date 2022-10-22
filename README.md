@@ -13,6 +13,7 @@ List of projects I made following youtube videos
 
   - <a href="#jsm-youtubeClone">Youtube Clone</a>
   - <a href="#jsm-landingPage">Landing Page</a>
+  - <a href="#jsm-lyriks">Lyriks</a>
 
 - <a href="#ninja">The Net Ninja</a>
 
@@ -49,6 +50,12 @@ List of projects I made following youtube videos
 ### <p id="jsm-landingPage">[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/landing-page-YT-Clone) Landing Page </p>
 
 [<img src="./img/jsm/landingpage.PNG" height="300px" >](https://github.com/Novecento201/landing-page-YT-Clone)
+
+---
+
+### <p id="jsm-lyriks">[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/lyriks-YT-Clone) Lyriks </p>
+
+[<img src="./img/jsm/lyriks.PNG" height="300px" >](https://github.com/Novecento201/lyriks-YT-Clone)
 
 ---
 
