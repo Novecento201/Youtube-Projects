@@ -18,6 +18,7 @@ List of projects I made following youtube videos
 - <a href="#ninja">The Net Ninja</a>
 
   - <a href="#ninja-dojo">Ninja Dojo</a>
+  - <a href="#ninja-router">React Router in Depth</a>
 
 - <a href="#egator">Egator</a>
 
@@ -63,7 +64,7 @@ List of projects I made following youtube videos
 
 ### <p id="ninja-dojo">[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/ninja-dojo-YT-Clone) Ninja Dojo </p>
 
-[<img alt="No image" height="300px" >](https://github.com/Novecento201/ninja-dojo-YT-Clone)
+### <p id="ninja-router">[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/React-router-depth) React Router in Depth </p>
 
 ---
 
