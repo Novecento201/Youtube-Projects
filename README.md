@@ -19,6 +19,7 @@ List of projects I made following youtube videos
 
   - <a href="#ninja-dojo">Ninja Dojo</a>
   - <a href="#ninja-router">React Router in Depth</a>
+  - <a href="#ninja-budgeting">React Budgeting project</a>
 
 - <a href="#egator">Egator</a>
 
