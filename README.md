@@ -66,6 +66,10 @@ List of projects I made following youtube videos
 
 ### <p id="ninja-router">[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/React-router-depth) React Router in Depth </p>
 
+### <p id="ninja-budgeting">[![My Skills](https://skills.thijs.gg/icons?i=github)](https://github.com/Novecento201/Budgeting-app-react-router-course) React Budgeting project </p>
+
+[<img src="./img/ninja/budgeting-project.PNG" height="300px" >](https://github.com/Novecento201/Budgeting-app-react-router-course)
+
 ---
 
 ## <p id="egator">EGATOR</p>
